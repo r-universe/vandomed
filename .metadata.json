@@ -1,0 +1,22 @@
+[
+  {
+    "package": "accelerometry",
+    "oncran": true
+  },
+  {
+    "package": "dvmisc",
+    "oncran": true
+  },
+  {
+    "package": "pooling",
+    "oncran": true
+  },
+  {
+    "package": "stocks",
+    "oncran": true
+  },
+  {
+    "package": "tab",
+    "oncran": true
+  }
+]
