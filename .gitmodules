@@ -8,9 +8,6 @@
 [submodule "dvmisc"]
 	path = dvmisc
 	url = https://github.com/vandomed/dvmisc
-[submodule "pooling"]
-	path = pooling
-	url = https://github.com/vandomed/pooling
 [submodule "stocks"]
 	path = stocks
 	url = https://github.com/vandomed/stocks
