@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "accelerometry"]
-	path = accelerometry
-	url = https://github.com/vandomed/accelerometry
-[submodule "dvmisc"]
-	path = dvmisc
-	url = https://github.com/vandomed/dvmisc
-[submodule "stocks"]
-	path = stocks
-	url = https://github.com/vandomed/stocks
 [submodule "tab"]
 	path = tab
 	url = https://github.com/vandomed/tab
